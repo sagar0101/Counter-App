@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: poppins;
+
+}
+.count{
+    font-size: 3rem;
+}
+button{
+    background-color: blueviolet;
+    padding: 10px 13px;
+    cursor: pointer;
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+    color: white;
+    font-size: 1rem;
+    font-family: poppins;
+    font-weight: 800;
+
+}
+input{
+    height: 2rem;
+    width: 5rem;
+    font-size: 1rem;
+}
